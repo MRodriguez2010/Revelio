@@ -1,5 +1,7 @@
 # Revelio · Employee Sentiment Analysis
 
+**Start here:** [Employee Sentiment Analysis project guide](docs/employee-sentiment-analysis-projects.md) · [Browse the public project family](https://github.com/search?q=user%3AMRodriguez2010+is%3Apublic+topic%3Aemployee-sentiment-analysis&type=repositories)
+
 Revelio is a local research toolkit for comparing employee survey responses across companies. Choose a focus company, a peer group, and a quarter range. The browser previews the comparison, and the same inputs generate an editable PowerPoint report.
 
 This public edition recreates the historical prototype’s company selection, benchmarking, and report-generation workflow with fictional organizations, synthetic response counts, and newly written presentation layouts. It runs offline after installation.
